@@ -1,0 +1,351 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Region,Quantity_Sold,Unit_Price,Revenue,Cost,Profit,Current_Stock,Inventory_Status,Customer_Rating,Payment_Mode,Salesperson
+ORD0001,2025-01-26,C087,Ekalinga Bhagat,P013,Cake,Bakery,South,5,350,1750,1231.42,518.58,218,In Stock,4.4,Cash,Priya
+ORD0002,2025-06-08,C060,Upasna Khosla,P019,Chips,Snacks,South,6,20,120,80.41,39.59,7,Out of Stock,3.6,Cash,Arjun
+ORD0003,2025-06-22,C026,Lopa Arya,P018,Shampoo,Personal Care,South,7,280,1960,1620.17,339.83,266,In Stock,4.6,UPI,Neha
+ORD0004,2025-02-18,C097,Tara Bail,P012,Soap,Personal Care,South,3,40,120,101.46,18.54,176,In Stock,3.7,UPI,Arjun
+ORD0005,2025-01-08,C066,Bhavini Soman,P021,Tea,Beverages,West,8,220,1760,1288.05,471.95,9,Out of Stock,3.6,UPI,Ramesh
+ORD0006,2025-11-19,C021,Ria Peri,P017,Cheese,Dairy,East,7,400,2800,2071.6,728.4,88,Low Stock,4.3,Cash,Kiran
+ORD0007,2025-11-30,C073,Faris Amble,P002,Curd,Dairy,East,1,45,45,28.12,16.88,277,In Stock,3.5,UPI,Pooja
+ORD0008,2025-05-04,C056,Reva Jayaraman,P003,Sugar,Groceries,South,4,50,200,167.63,32.37,79,Low Stock,4.0,Debit Card,Pooja
+ORD0009,2025-09-10,C022,Netra Jani,P001,Notebook,Stationery,West,8,80,640,479.09,160.91,299,In Stock,4.3,UPI,Kiran
+ORD0010,2025-08-12,C042,Nathan Kant,P019,Cookies,Snacks,East,3,80,240,157.05,82.95,240,In Stock,4.4,Debit Card,Ramesh
+ORD0011,2025-06-09,C089,Maya Handa,P016,Juice,Beverages,South,3,90,270,216.42,53.58,37,Out of Stock,3.7,Cash,Priya
+ORD0012,2025-09-27,C059,Laban Wali,P020,Pencil,Stationery,North,8,10,80,51.31,28.69,143,Low Stock,4.9,UPI,Priya
+ORD0013,2025-11-14,C083,Kashvi Chad,P016,Face Wash,Personal Care,West,3,180,540,359.12,180.88,16,Out of Stock,4.3,Credit Card,Vikram
+ORD0014,2025-02-08,C092,Zaid Sandal,P021,Soap,Personal Care,South,8,40,320,243.31,76.69,240,In Stock,3.7,Debit Card,Neha
+ORD0015,2025-07-04,C067,Baljiwan Talwar,P024,Cake,Bakery,North,9,350,3150,2055.4,1094.6,188,In Stock,4.7,Credit Card,Kiran
+ORD0016,2025-11-15,C099,Anirudh Dugal,P014,Cheese,Dairy,West,1,400,400,241.41,158.59,201,In Stock,4.5,Credit Card,Rahul
+ORD0017,2025-12-15,C047,Jagdish Ganesh,P007,Pen,Stationery,South,9,15,135,114.19,20.81,119,Low Stock,4.2,Cash,Sneha
+ORD0018,2025-11-19,C007,Bimala Vig,P023,Pencil,Stationery,North,6,10,60,44.0,16.0,271,In Stock,4.0,UPI,Kiran
+ORD0019,2025-07-18,C083,Ishanvi Chahal,P009,Chips,Snacks,North,8,20,160,128.11,31.89,109,Low Stock,3.9,Credit Card,Pooja
+ORD0020,2025-11-08,C013,Anika Goda,P019,Tea,Beverages,East,9,220,1980,1530.2,449.8,137,Low Stock,3.9,Credit Card,Kiran
+ORD0021,2025-04-02,C090,Ishani Barman,P023,Cake,Bakery,East,2,350,700,500.11,199.89,206,In Stock,4.6,Credit Card,Arjun
+ORD0022,2025-03-10,C058,Abha Sule,P003,Pencil,Stationery,South,4,10,40,25.42,14.58,74,Low Stock,4.7,Debit Card,Vikram
+ORD0023,2025-05-30,C032,Daniel Bahl,P014,Butter,Dairy,East,5,250,1250,1052.64,197.36,1,Out of Stock,4.4,Debit Card,Pooja
+ORD0024,2025-09-25,C003,Wazir Deo,P005,Bread,Bakery,North,1,40,40,30.56,9.44,29,Out of Stock,4.6,Debit Card,Neha
+ORD0025,2025-01-08,C022,Nirja Nagarajan,P008,Curd,Dairy,East,2,45,90,75.91,14.09,1,Out of Stock,4.3,Credit Card,Arjun
+ORD0026,2025-05-04,C064,Pahal Dhawan,P011,Juice,Beverages,West,1,90,90,72.84,17.16,210,In Stock,4.7,Credit Card,Arjun
+ORD0027,2025-07-06,C076,Deepa Reddy,P022,Face Wash,Personal Care,South,8,180,1440,1162.2,277.8,232,In Stock,3.6,Cash,Priya
+ORD0028,2025-02-27,C071,Krishna Arora,P006,Rice,Groceries,East,9,60,540,345.11,194.89,84,Low Stock,4.0,UPI,Ramesh
+ORD0029,2025-10-10,C007,Om Memon,P017,Cookies,Snacks,East,9,80,720,558.4,161.6,194,In Stock,4.5,Debit Card,Pooja
+ORD0030,2025-11-04,C039,David Pant,P023,Salt,Groceries,South,7,25,175,131.18,43.82,23,Out of Stock,3.9,Cash,Neha
+ORD0031,2025-06-11,C041,Arin Jaggi,P018,Notebook,Stationery,South,9,80,720,467.52,252.48,284,In Stock,4.9,Cash,Kiran
+ORD0032,2025-07-26,C064,Warda Guha,P005,Pen,Stationery,South,9,15,135,90.95,44.05,259,In Stock,4.2,UPI,Ramesh
+ORD0033,2025-08-01,C083,Vedika Pal,P023,Notebook,Stationery,South,8,80,640,416.3,223.7,209,In Stock,4.4,UPI,Rahul
+ORD0034,2025-01-19,C081,Riya Merchant,P019,Cookies,Snacks,East,2,80,160,135.0,25.0,48,Out of Stock,3.9,Debit Card,Pooja
+ORD0035,2025-10-16,C071,Rudra Gour,P022,Milk,Dairy,North,5,55,275,178.31,96.69,240,In Stock,3.6,Cash,Rahul
+ORD0036,2025-11-28,C074,Onveer Sibal,P001,Cooking Oil,Groceries,North,9,180,1620,1297.95,322.05,112,Low Stock,5.0,Debit Card,Priya
+ORD0037,2025-09-06,C073,Indira Shere,P008,Cheese,Dairy,North,5,400,2000,1427.74,572.26,232,In Stock,4.5,UPI,Anjali
+ORD0038,2025-08-11,C096,Triveni Ganguly,P021,Biscuits,Bakery,East,6,35,210,157.85,52.15,170,In Stock,4.6,Credit Card,Neha
+ORD0039,2025-03-09,C056,Omkaar Varma,P007,Salt,Groceries,East,6,25,150,113.61,36.39,248,In Stock,3.9,Cash,Vikram
+ORD0040,2025-01-09,C004,Saumya Gill,P005,Notebook,Stationery,West,1,80,80,63.85,16.15,182,In Stock,4.5,Cash,Pooja
+ORD0041,2025-08-10,C016,Yashawini Patla,P004,Pen,Stationery,South,3,15,45,33.23,11.77,265,In Stock,4.7,Credit Card,Pooja
+ORD0042,2025-03-04,C067,Upasna Mukherjee,P025,Curd,Dairy,South,7,45,315,190.68,124.32,45,Out of Stock,3.8,Credit Card,Anjali
+ORD0043,2025-04-11,C070,Urmi Cheema,P006,Rice,Groceries,North,3,60,180,151.02,28.98,211,In Stock,4.9,Cash,Ramesh
+ORD0044,2025-06-20,C034,Jacob Khatri,P025,Salt,Groceries,East,6,25,150,91.39,58.61,45,Out of Stock,3.6,UPI,Arjun
+ORD0045,2025-09-01,C077,Manbir Kashyap,P005,Notebook,Stationery,North,6,80,480,341.56,138.44,18,Out of Stock,4.9,Credit Card,Rahul
+ORD0046,2025-08-27,C012,Chanchal Chopra,P021,Namkeen,Snacks,North,1,60,60,47.44,12.56,155,In Stock,5.0,Cash,Anjali
+ORD0047,2025-06-03,C005,Shravya Ghose,P015,Wheat Flour,Groceries,West,3,45,135,85.5,49.5,36,Out of Stock,4.5,UPI,Pooja
+ORD0048,2025-04-03,C090,Meghana Dhaliwal,P006,Salt,Groceries,East,4,25,100,80.09,19.91,136,Low Stock,4.4,Cash,Vikram
+ORD0049,2025-01-07,C045,Dhriti Kohli,P003,Shampoo,Personal Care,East,9,280,2520,1555.59,964.41,133,Low Stock,4.6,Cash,Rahul
+ORD0050,2025-01-27,C053,Jeremiah Lad,P004,Curd,Dairy,East,8,45,360,290.36,69.64,96,Low Stock,4.7,Credit Card,Vikram
+ORD0051,2025-01-01,C022,Ekalinga Mishra,P004,Biscuits,Bakery,South,1,35,35,23.91,11.09,33,Out of Stock,4.2,UPI,Anjali
+ORD0052,2025-11-23,C033,Gaurangi Baral,P014,Wheat Flour,Groceries,East,1,45,45,37.89,7.11,90,Low Stock,4.3,Credit Card,Rahul
+ORD0053,2025-09-29,C047,Dayita Sandal,P010,Pen,Stationery,South,4,15,60,44.89,15.11,148,Low Stock,4.8,Cash,Kiran
+ORD0054,2025-11-18,C003,Logan Nori,P017,Bread,Bakery,East,7,40,280,190.79,89.21,139,Low Stock,5.0,UPI,Kiran
+ORD0055,2025-01-09,C070,Kritika Vig,P008,Curd,Dairy,South,2,45,90,71.01,18.99,234,In Stock,4.8,Cash,Anjali
+ORD0056,2025-10-28,C100,Neha Hari,P014,Namkeen,Snacks,South,5,60,300,181.75,118.25,29,Out of Stock,3.7,Credit Card,Rahul
+ORD0057,2025-01-24,C001,Reva Rastogi,P022,Curd,Dairy,South,10,45,450,378.7,71.3,191,In Stock,4.1,Cash,Sneha
+ORD0058,2025-08-30,C079,Ati Mannan,P009,Pen,Stationery,East,10,15,150,98.46,51.54,31,Out of Stock,4.1,Credit Card,Neha
+ORD0059,2025-09-13,C047,Samesh Sharaf,P010,Pen,Stationery,East,10,15,150,118.63,31.37,93,Low Stock,4.9,Cash,Arjun
+ORD0060,2025-11-28,C025,Vaishnavi Sandal,P018,Biscuits,Bakery,East,6,35,210,140.52,69.48,283,In Stock,3.5,Cash,Vikram
+ORD0061,2025-08-13,C057,Yashvi Taneja,P014,Notebook,Stationery,South,7,80,560,381.99,178.01,135,Low Stock,4.9,Cash,Neha
+ORD0062,2025-05-27,C062,Urvashi Brar,P001,Butter,Dairy,North,10,250,2500,1869.3,630.7,29,Out of Stock,4.4,Debit Card,Neha
+ORD0063,2025-07-06,C061,Nathaniel Naik,P023,Notebook,Stationery,South,6,80,480,345.44,134.56,251,In Stock,3.9,Credit Card,Neha
+ORD0064,2025-12-17,C046,Jalsa Kapoor,P023,Curd,Dairy,North,7,45,315,190.4,124.6,266,In Stock,4.1,Debit Card,Ramesh
+ORD0065,2025-03-17,C076,Forum Bhavsar,P007,Chips,Snacks,North,9,20,180,140.64,39.36,179,In Stock,4.2,Cash,Priya
+ORD0066,2025-10-04,C089,Harish Wason,P018,Pen,Stationery,South,8,15,120,86.84,33.16,67,Low Stock,4.2,Debit Card,Anjali
+ORD0067,2025-01-03,C039,William Shah,P021,Bread,Bakery,East,9,40,360,225.75,134.25,59,Low Stock,4.0,Credit Card,Neha
+ORD0068,2025-01-26,C042,Sneha Srinivas,P007,Bread,Bakery,West,1,40,40,29.81,10.19,62,Low Stock,4.0,UPI,Rahul
+ORD0069,2025-07-02,C061,Avi Deshmukh,P005,Shampoo,Personal Care,South,8,280,2240,1760.11,479.89,44,Out of Stock,4.2,Debit Card,Neha
+ORD0070,2025-05-05,C066,Onveer Bhardwaj,P004,Tea,Beverages,North,8,220,1760,1389.95,370.05,64,Low Stock,3.6,Debit Card,Arjun
+ORD0071,2025-01-14,C078,Yashica Sen,P005,Wheat Flour,Groceries,East,2,45,90,73.3,16.7,94,Low Stock,4.7,Credit Card,Sneha
+ORD0072,2025-10-16,C075,Caleb Jayaraman,P003,Salt,Groceries,North,3,25,75,51.85,23.15,158,In Stock,4.7,UPI,Anjali
+ORD0073,2025-07-24,C097,Jacob Rattan,P013,Soap,Personal Care,East,9,40,360,233.12,126.88,228,In Stock,3.6,Cash,Rahul
+ORD0074,2025-03-19,C048,Samuel Raja,P010,Wheat Flour,Groceries,South,1,45,45,29.69,15.31,31,Out of Stock,4.5,Credit Card,Neha
+ORD0075,2025-11-18,C014,Parth Bhatt,P002,Salt,Groceries,North,6,25,150,116.24,33.76,80,Low Stock,4.5,Credit Card,Rahul
+ORD0076,2025-01-28,C099,Tanish Deo,P022,Pencil,Stationery,West,9,10,90,71.48,18.52,50,Low Stock,4.6,Cash,Ramesh
+ORD0077,2025-11-02,C084,Ikshita Bains,P002,Shampoo,Personal Care,West,10,280,2800,2091.5,708.5,128,Low Stock,3.9,Debit Card,Priya
+ORD0078,2025-07-17,C056,Guneet Sheth,P025,Biscuits,Bakery,North,5,35,175,121.34,53.66,118,Low Stock,5.0,Credit Card,Priya
+ORD0079,2025-06-09,C044,Oni Bhakta,P001,Shampoo,Personal Care,South,7,280,1960,1219.36,740.64,69,Low Stock,4.7,Credit Card,Anjali
+ORD0080,2025-03-13,C069,Luke Parsa,P015,Soft Drink,Beverages,North,9,60,540,350.72,189.28,159,In Stock,4.9,Credit Card,Sneha
+ORD0081,2025-07-07,C024,Ganga Kari,P005,Coffee,Beverages,East,8,350,2800,1931.38,868.62,112,Low Stock,4.4,Credit Card,Ramesh
+ORD0082,2025-01-18,C024,Pranit Madan,P014,Curd,Dairy,East,7,45,315,256.56,58.44,212,In Stock,4.4,Cash,Rahul
+ORD0083,2025-10-09,C075,Sudiksha Verma,P019,Biscuits,Bakery,West,2,35,70,43.04,26.96,257,In Stock,4.5,Debit Card,Neha
+ORD0084,2025-05-14,C094,Udarsh Borah,P003,Soft Drink,Beverages,South,2,60,120,94.78,25.22,124,Low Stock,4.5,UPI,Anjali
+ORD0085,2025-04-20,C013,Gunbir Chadha,P010,Biscuits,Bakery,West,10,35,350,286.03,63.97,115,Low Stock,4.1,UPI,Priya
+ORD0086,2025-06-19,C039,Hemang Sabharwal,P021,Cake,Bakery,North,8,350,2800,2343.11,456.89,141,Low Stock,3.9,Credit Card,Priya
+ORD0087,2025-12-24,C010,Oviya Karan,P014,Cheese,Dairy,East,7,400,2800,2370.29,429.71,103,Low Stock,3.6,Credit Card,Sneha
+ORD0088,2025-10-23,C013,Isaac Anand,P011,Wheat Flour,Groceries,East,9,45,405,245.57,159.43,244,In Stock,4.5,Credit Card,Rahul
+ORD0089,2025-12-19,C064,Lopa Sarna,P016,Notebook,Stationery,West,7,80,560,340.76,219.24,173,In Stock,4.7,Debit Card,Pooja
+ORD0090,2025-12-25,C084,Arya Chada,P013,Coffee,Beverages,South,7,350,2450,1800.6,649.4,105,Low Stock,4.3,Debit Card,Pooja
+ORD0091,2025-03-14,C085,Reva Minhas,P008,Bread,Bakery,South,5,40,200,163.26,36.74,38,Out of Stock,4.7,Cash,Pooja
+ORD0092,2025-12-09,C025,Hemangini Karpe,P021,Namkeen,Snacks,East,3,60,180,142.33,37.67,24,Out of Stock,3.5,Debit Card,Kiran
+ORD0093,2025-08-20,C014,Anjali Deep,P010,Bread,Bakery,West,10,40,400,300.99,99.01,115,Low Stock,4.7,Credit Card,Priya
+ORD0094,2025-05-21,C050,Rayaan Keer,P020,Wheat Flour,Groceries,East,4,45,180,141.79,38.21,232,In Stock,5.0,UPI,Ramesh
+ORD0095,2025-08-05,C023,Dalbir Basu,P025,Chips,Snacks,West,6,20,120,79.41,40.59,135,Low Stock,4.2,Debit Card,Ramesh
+ORD0096,2025-08-16,C057,Wazir Pingle,P022,Toothpaste,Personal Care,South,2,120,240,192.81,47.19,275,In Stock,3.8,UPI,Sneha
+ORD0097,2025-02-24,C004,Dev Goel,P015,Wheat Flour,Groceries,East,9,45,405,283.44,121.56,167,In Stock,4.3,Credit Card,Rahul
+ORD0098,2025-07-05,C038,Ladli Datta,P004,Face Wash,Personal Care,North,7,180,1260,943.46,316.54,173,In Stock,3.9,Credit Card,Sneha
+ORD0099,2025-09-22,C051,Kashvi Hegde,P008,Biscuits,Bakery,West,3,35,105,87.15,17.85,105,Low Stock,4.5,Cash,Vikram
+ORD0100,2025-07-24,C059,Shravya Kumar,P011,Coffee,Beverages,West,6,350,2100,1697.9,402.1,170,In Stock,4.4,Cash,Rahul
+ORD0101,2025-04-19,C003,Robert Mishra,P021,Coffee,Beverages,East,8,350,2800,2294.76,505.24,47,Out of Stock,4.8,Cash,Kiran
+ORD0102,2025-02-02,C004,Dayamai Menon,P015,Toothpaste,Personal Care,West,7,120,840,578.1,261.9,119,Low Stock,3.8,Cash,Anjali
+ORD0103,2025-08-25,C006,Amara Pathak,P003,Cooking Oil,Groceries,North,4,180,720,567.71,152.29,158,In Stock,3.5,Cash,Pooja
+ORD0104,2025-07-15,C086,Amaira Mangal,P018,Bread,Bakery,West,6,40,240,163.95,76.05,140,Low Stock,3.7,UPI,Neha
+ORD0105,2025-01-16,C085,Bina Biswas,P009,Notebook,Stationery,East,8,80,640,515.56,124.44,203,In Stock,4.0,Cash,Arjun
+ORD0106,2025-03-21,C096,Anita Bajaj,P008,Namkeen,Snacks,East,7,60,420,320.13,99.87,19,Out of Stock,4.8,Debit Card,Rahul
+ORD0107,2025-02-24,C004,Kashish Subramanian,P008,Butter,Dairy,West,9,250,2250,1717.01,532.99,254,In Stock,4.9,UPI,Rahul
+ORD0108,2025-04-22,C093,Abhimanyu Pillay,P007,Namkeen,Snacks,East,1,60,60,45.76,14.24,165,In Stock,4.8,Cash,Sneha
+ORD0109,2025-03-24,C081,Samar Parsa,P009,Soft Drink,Beverages,East,10,60,600,363.89,236.11,11,Out of Stock,4.5,Debit Card,Pooja
+ORD0110,2025-06-19,C013,Osha Nagar,P010,Pencil,Stationery,North,3,10,30,20.46,9.54,300,In Stock,4.2,Debit Card,Vikram
+ORD0111,2025-05-20,C087,Rachit Comar,P014,Face Wash,Personal Care,South,10,180,1800,1360.79,439.21,221,In Stock,3.7,Credit Card,Vikram
+ORD0112,2025-10-06,C011,Rushil Nadkarni,P020,Pen,Stationery,East,6,15,90,68.79,21.21,183,In Stock,4.7,UPI,Vikram
+ORD0113,2025-01-02,C096,Amol Golla,P025,Cake,Bakery,East,10,350,3500,2746.49,753.51,127,Low Stock,4.7,Credit Card,Pooja
+ORD0114,2025-11-11,C051,Mitali Khosla,P008,Sugar,Groceries,North,10,50,500,371.41,128.59,9,Out of Stock,4.2,Credit Card,Anjali
+ORD0115,2025-04-15,C046,Nakul Nigam,P006,Tea,Beverages,West,1,220,220,171.51,48.49,226,In Stock,4.0,Debit Card,Ramesh
+ORD0116,2025-01-18,C035,Omisha Narayanan,P018,Biscuits,Bakery,East,4,35,140,84.6,55.4,60,Low Stock,3.9,UPI,Kiran
+ORD0117,2025-09-17,C089,Suhani Palan,P006,Salt,Groceries,North,9,25,225,182.33,42.67,234,In Stock,3.6,Cash,Sneha
+ORD0118,2025-06-10,C043,Pooja Palan,P020,Biscuits,Bakery,East,6,35,210,144.54,65.46,172,In Stock,4.7,Credit Card,Vikram
+ORD0119,2025-05-08,C050,Yatin Toor,P016,Tea,Beverages,South,1,220,220,138.85,81.15,187,In Stock,5.0,Credit Card,Ramesh
+ORD0120,2025-05-27,C097,Tanvi Hans,P025,Biscuits,Bakery,North,9,35,315,258.01,56.99,138,Low Stock,4.4,UPI,Rahul
+ORD0121,2025-11-08,C092,Caleb Hari,P022,Milk,Dairy,East,7,55,385,305.47,79.53,300,In Stock,4.6,Debit Card,Neha
+ORD0122,2025-12-04,C066,Chakrika Shanker,P016,Soft Drink,Beverages,West,3,60,180,135.55,44.45,170,In Stock,4.4,Cash,Vikram
+ORD0123,2025-02-22,C037,Turvi Kala,P025,Cake,Bakery,North,4,350,1400,1030.58,369.42,67,Low Stock,4.1,Credit Card,Sneha
+ORD0124,2025-03-05,C097,Anika Bail,P015,Wheat Flour,Groceries,East,1,45,45,33.64,11.36,209,In Stock,3.8,Debit Card,Sneha
+ORD0125,2025-07-16,C015,Chandresh Padmanabhan,P001,Biscuits,Bakery,West,4,35,140,104.02,35.98,158,In Stock,4.1,Credit Card,Sneha
+ORD0126,2025-04-13,C010,Bhavini Thaman,P008,Tea,Beverages,North,4,220,880,677.08,202.92,156,In Stock,4.0,Credit Card,Arjun
+ORD0127,2025-11-01,C040,Krisha Venkatesh,P009,Pen,Stationery,West,4,15,60,36.85,23.15,34,Out of Stock,4.9,Cash,Ramesh
+ORD0128,2025-06-02,C055,Nisha Raj,P003,Pencil,Stationery,East,7,10,70,53.82,16.18,263,In Stock,4.1,Credit Card,Kiran
+ORD0129,2025-12-10,C081,Amrita Natarajan,P008,Cooking Oil,Groceries,South,7,180,1260,1036.35,223.65,207,In Stock,4.2,Debit Card,Rahul
+ORD0130,2025-03-15,C009,Vinaya Sule,P013,Cake,Bakery,North,9,350,3150,2192.89,957.11,35,Out of Stock,3.9,UPI,Ramesh
+ORD0131,2025-05-15,C007,Kabir Kara,P024,Salt,Groceries,South,7,25,175,147.66,27.34,13,Out of Stock,4.1,Credit Card,Pooja
+ORD0132,2025-06-28,C089,Megha Devan,P021,Wheat Flour,Groceries,East,10,45,450,309.05,140.95,128,Low Stock,4.5,Cash,Arjun
+ORD0133,2025-07-08,C080,Zinal Banerjee,P013,Cooking Oil,Groceries,East,8,180,1440,985.86,454.14,270,In Stock,4.1,UPI,Vikram
+ORD0134,2025-08-14,C055,Raghav Chhabra,P022,Tea,Beverages,South,8,220,1760,1365.51,394.49,264,In Stock,4.6,UPI,Ramesh
+ORD0135,2025-09-28,C099,Sudiksha Bala,P022,Chips,Snacks,East,10,20,200,168.22,31.78,187,In Stock,4.3,Credit Card,Rahul
+ORD0136,2025-01-31,C039,Devika Badami,P003,Namkeen,Snacks,East,5,60,300,206.29,93.71,210,In Stock,4.4,UPI,Priya
+ORD0137,2025-01-12,C001,Wyatt Devan,P001,Soft Drink,Beverages,South,1,60,60,39.57,20.43,64,Low Stock,3.8,Debit Card,Kiran
+ORD0138,2025-07-19,C003,Nilima Chacko,P012,Pen,Stationery,South,3,15,45,35.66,9.34,30,Out of Stock,3.5,Credit Card,Rahul
+ORD0139,2025-01-17,C100,Bhavya Sarkar,P023,Milk,Dairy,North,6,55,330,219.45,110.55,284,In Stock,4.8,Credit Card,Priya
+ORD0140,2025-08-13,C041,Yashodhara Sethi,P014,Bread,Bakery,East,10,40,400,322.38,77.62,103,Low Stock,3.7,Debit Card,Ramesh
+ORD0141,2025-08-21,C095,Girik Mital,P017,Pen,Stationery,South,4,15,60,39.25,20.75,221,In Stock,4.0,Debit Card,Neha
+ORD0142,2025-06-10,C032,Vihaan Divan,P024,Notebook,Stationery,North,9,80,720,454.13,265.87,15,Out of Stock,4.8,UPI,Pooja
+ORD0143,2025-03-12,C039,Anvi Venkatesh,P003,Pen,Stationery,East,4,15,60,39.83,20.17,293,In Stock,3.9,Credit Card,Vikram
+ORD0144,2025-12-16,C071,Aadi Toor,P001,Rice,Groceries,East,7,60,420,325.45,94.55,293,In Stock,4.4,Debit Card,Rahul
+ORD0145,2025-08-13,C100,Shravya D’Alia,P001,Sugar,Groceries,North,5,50,250,178.42,71.58,72,Low Stock,4.1,Cash,Neha
+ORD0146,2025-03-09,C094,Triveni Dubey,P023,Rice,Groceries,West,3,60,180,123.93,56.07,210,In Stock,4.8,Credit Card,Ramesh
+ORD0147,2025-01-25,C072,Vrinda Gala,P010,Cheese,Dairy,East,9,400,3600,2411.19,1188.81,198,In Stock,4.1,Cash,Neha
+ORD0148,2025-07-22,C017,Jonathan Saha,P001,Namkeen,Snacks,West,4,60,240,192.93,47.07,283,In Stock,4.1,Debit Card,Neha
+ORD0149,2025-05-15,C032,Meera Pillay,P006,Milk,Dairy,North,6,55,330,269.56,60.44,77,Low Stock,4.9,Cash,Anjali
+ORD0150,2025-06-28,C010,Diya Khosla,P009,Cheese,Dairy,North,3,400,1200,840.91,359.09,84,Low Stock,4.9,Cash,Ramesh
+ORD0151,2025-07-27,C093,Mekhala Babu,P025,Curd,Dairy,South,7,45,315,230.93,84.07,217,In Stock,3.8,Cash,Arjun
+ORD0152,2025-11-17,C062,Om Krishnan,P019,Butter,Dairy,North,1,250,250,177.9,72.1,89,Low Stock,5.0,Credit Card,Pooja
+ORD0153,2025-06-03,C037,Nitesh Baral,P007,Pen,Stationery,South,8,15,120,84.04,35.96,219,In Stock,3.7,UPI,Ramesh
+ORD0154,2025-09-01,C024,Yachana Babu,P003,Milk,Dairy,West,6,55,330,268.23,61.77,201,In Stock,3.9,Cash,Neha
+ORD0155,2025-05-16,C063,Aahana Dhar,P012,Pen,Stationery,West,6,15,90,64.92,25.08,140,Low Stock,4.4,Credit Card,Vikram
+ORD0156,2025-02-09,C094,Siddharth Khosla,P015,Butter,Dairy,East,6,250,1500,1251.79,248.21,162,In Stock,4.5,Credit Card,Arjun
+ORD0157,2025-02-07,C015,Faraj Mitter,P012,Cake,Bakery,North,10,350,3500,2464.28,1035.72,219,In Stock,4.0,UPI,Vikram
+ORD0158,2025-03-20,C087,Zaid Kaul,P022,Sugar,Groceries,East,10,50,500,313.03,186.97,26,Out of Stock,4.5,UPI,Neha
+ORD0159,2025-05-15,C067,Udyati Venkatesh,P009,Tea,Beverages,South,5,220,1100,772.38,327.62,274,In Stock,4.6,Credit Card,Pooja
+ORD0160,2025-11-05,C031,Anay Batra,P017,Cake,Bakery,East,4,350,1400,935.94,464.06,269,In Stock,3.7,Credit Card,Arjun
+ORD0161,2025-02-16,C062,Nihal Krish,P019,Chips,Snacks,North,4,20,80,50.36,29.64,197,In Stock,3.6,UPI,Neha
+ORD0162,2025-12-05,C028,Amruta Johal,P004,Salt,Groceries,West,9,25,225,187.6,37.4,184,In Stock,3.6,Debit Card,Vikram
+ORD0163,2025-07-17,C059,Yutika Boase,P015,Chips,Snacks,North,5,20,100,69.16,30.84,72,Low Stock,4.2,Debit Card,Ramesh
+ORD0164,2025-04-15,C049,Naveen Setty,P015,Notebook,Stationery,North,6,80,480,309.2,170.8,295,In Stock,3.9,Debit Card,Vikram
+ORD0165,2025-05-14,C049,Yahvi Deo,P017,Pen,Stationery,South,6,15,90,70.92,19.08,149,Low Stock,4.9,Cash,Ramesh
+ORD0166,2025-12-13,C041,Divya Chaudhuri,P021,Cake,Bakery,West,10,350,3500,2207.94,1292.06,235,In Stock,5.0,Debit Card,Anjali
+ORD0167,2025-01-11,C030,Aashi Parmer,P019,Cake,Bakery,West,1,350,350,259.0,91.0,63,Low Stock,4.9,UPI,Pooja
+ORD0168,2025-12-05,C053,Yatan Thakur,P001,Juice,Beverages,East,2,90,180,130.61,49.39,169,In Stock,4.0,Credit Card,Neha
+ORD0169,2025-08-11,C059,Hema Prabhakar,P008,Wheat Flour,Groceries,West,6,45,270,190.03,79.97,287,In Stock,4.6,Credit Card,Sneha
+ORD0170,2025-05-18,C061,Hemangini Patla,P014,Notebook,Stationery,North,5,80,400,275.13,124.87,167,In Stock,4.5,Cash,Sneha
+ORD0171,2025-04-30,C078,Om Dyal,P025,Rice,Groceries,North,6,60,360,232.48,127.52,193,In Stock,4.1,Credit Card,Anjali
+ORD0172,2025-07-01,C012,Vritti Aggarwal,P003,Rice,Groceries,North,4,60,240,159.32,80.68,195,In Stock,4.7,Credit Card,Anjali
+ORD0173,2025-07-14,C097,Vanya Om,P009,Notebook,Stationery,East,10,80,800,528.28,271.72,191,In Stock,4.7,Cash,Ramesh
+ORD0174,2025-11-09,C038,Harinakshi Maharaj,P025,Namkeen,Snacks,North,5,60,300,233.9,66.1,98,Low Stock,4.6,Debit Card,Neha
+ORD0175,2025-11-21,C024,Advika Mallick,P018,Butter,Dairy,South,8,250,2000,1416.55,583.45,30,Out of Stock,4.8,Cash,Rahul
+ORD0176,2025-05-10,C043,Chakradhar Merchant,P008,Curd,Dairy,South,10,45,450,308.82,141.18,6,Out of Stock,4.0,Cash,Rahul
+ORD0177,2025-10-12,C037,Bachittar Murthy,P020,Butter,Dairy,North,2,250,500,419.05,80.95,102,Low Stock,4.0,Debit Card,Ramesh
+ORD0178,2025-03-17,C087,Zayan Sethi,P006,Sugar,Groceries,East,3,50,150,112.46,37.54,32,Out of Stock,4.7,Debit Card,Neha
+ORD0179,2025-11-17,C051,Christopher Dora,P017,Face Wash,Personal Care,South,7,180,1260,836.86,423.14,21,Out of Stock,4.7,Debit Card,Anjali
+ORD0180,2025-04-10,C063,Chakradhar Goswami,P007,Soft Drink,Beverages,West,4,60,240,203.28,36.72,116,Low Stock,5.0,Credit Card,Ramesh
+ORD0181,2025-04-19,C015,Janaki Rau,P021,Shampoo,Personal Care,North,8,280,2240,1547.01,692.99,202,In Stock,4.8,UPI,Vikram
+ORD0182,2025-06-15,C070,Adweta Madan,P012,Pen,Stationery,West,7,15,105,63.94,41.06,2,Out of Stock,5.0,Credit Card,Anjali
+ORD0183,2025-04-21,C068,Tamanna Salvi,P017,Chips,Snacks,West,7,20,140,105.67,34.33,45,Out of Stock,4.3,Credit Card,Vikram
+ORD0184,2025-01-13,C049,Avni Nayak,P020,Soft Drink,Beverages,South,2,60,120,98.68,21.32,186,In Stock,4.2,UPI,Pooja
+ORD0185,2025-10-01,C048,Chandran Raja,P004,Bread,Bakery,North,1,40,40,25.34,14.66,93,Low Stock,4.2,Debit Card,Neha
+ORD0186,2025-10-08,C040,Forum Bose,P015,Biscuits,Bakery,South,2,35,70,49.45,20.55,130,Low Stock,4.5,Credit Card,Ramesh
+ORD0187,2025-09-25,C099,Nihal Merchant,P012,Cake,Bakery,West,9,350,3150,2577.64,572.36,227,In Stock,3.6,Debit Card,Pooja
+ORD0188,2025-11-17,C045,Praneel Bora,P016,Toothpaste,Personal Care,North,7,120,840,596.83,243.17,180,In Stock,4.6,Debit Card,Kiran
+ORD0189,2025-06-07,C083,Nandini Luthra,P005,Milk,Dairy,North,4,55,220,166.71,53.29,259,In Stock,4.4,UPI,Anjali
+ORD0190,2025-10-11,C007,Janya Kapoor,P021,Sugar,Groceries,North,1,50,50,33.03,16.97,135,Low Stock,4.5,Debit Card,Neha
+ORD0191,2025-09-02,C014,Balvan Lal,P014,Butter,Dairy,South,1,250,250,188.65,61.35,139,Low Stock,3.7,Credit Card,Rahul
+ORD0192,2025-02-01,C016,Libni Vora,P016,Bread,Bakery,South,9,40,360,232.73,127.27,236,In Stock,4.9,Debit Card,Rahul
+ORD0193,2025-10-25,C069,Lopa Vora,P004,Namkeen,Snacks,South,5,60,300,203.62,96.38,245,In Stock,4.7,Cash,Ramesh
+ORD0194,2025-07-05,C095,Ekanta Rai,P017,Cookies,Snacks,East,3,80,240,158.26,81.74,202,In Stock,4.3,UPI,Pooja
+ORD0195,2025-02-20,C039,Ati Randhawa,P004,Coffee,Beverages,North,9,350,3150,2355.82,794.18,298,In Stock,4.4,Credit Card,Neha
+ORD0196,2025-04-16,C010,Urvashi Grover,P023,Notebook,Stationery,East,2,80,160,124.61,35.39,88,Low Stock,4.1,Credit Card,Vikram
+ORD0197,2025-12-17,C033,Quincy Kothari,P001,Chips,Snacks,East,6,20,120,72.18,47.82,176,In Stock,3.9,UPI,Anjali
+ORD0198,2025-06-25,C085,Zaitra Dora,P010,Wheat Flour,Groceries,South,4,45,180,137.42,42.58,44,Out of Stock,4.7,UPI,Anjali
+ORD0199,2025-07-26,C070,Siddharth Wadhwa,P022,Chips,Snacks,East,9,20,180,149.75,30.25,258,In Stock,4.1,UPI,Arjun
+ORD0200,2025-10-15,C005,Qasim Dara,P009,Cake,Bakery,South,2,350,700,472.3,227.7,32,Out of Stock,4.9,Debit Card,Kiran
+ORD0201,2025-05-28,C064,Chavvi Grewal,P023,Cheese,Dairy,East,2,400,800,582.22,217.78,77,Low Stock,3.9,Credit Card,Neha
+ORD0202,2025-05-30,C004,Waida Banik,P009,Cake,Bakery,South,7,350,2450,1795.18,654.82,38,Out of Stock,4.9,Credit Card,Vikram
+ORD0203,2025-09-08,C077,Maanav Zachariah,P013,Pencil,Stationery,East,7,10,70,55.55,14.45,35,Out of Stock,3.5,UPI,Arjun
+ORD0204,2025-04-21,C073,Chameli Sengupta,P005,Coffee,Beverages,North,8,350,2800,1893.61,906.39,200,In Stock,3.6,Debit Card,Rahul
+ORD0205,2025-02-21,C053,Amruta Basu,P020,Coffee,Beverages,South,1,350,350,251.33,98.67,291,In Stock,4.1,UPI,Anjali
+ORD0206,2025-02-18,C055,Damyanti Bahri,P018,Coffee,Beverages,East,8,350,2800,2224.68,575.32,190,In Stock,4.2,Cash,Ramesh
+ORD0207,2025-01-02,C071,Shivani Sandal,P018,Shampoo,Personal Care,South,8,280,2240,1572.02,667.98,201,In Stock,3.8,Cash,Neha
+ORD0208,2025-09-07,C036,Aarnav Halder,P018,Biscuits,Bakery,North,2,35,70,42.96,27.04,192,In Stock,4.4,Credit Card,Neha
+ORD0209,2025-02-07,C039,Victor Rattan,P019,Toothpaste,Personal Care,South,8,120,960,724.54,235.46,176,In Stock,4.3,Debit Card,Ramesh
+ORD0210,2025-07-18,C019,Parth Boase,P022,Wheat Flour,Groceries,West,2,45,90,74.27,15.73,109,Low Stock,4.8,Cash,Priya
+ORD0211,2025-02-06,C055,Orinder Narula,P013,Toothpaste,Personal Care,East,2,120,240,153.96,86.04,279,In Stock,3.6,UPI,Kiran
+ORD0212,2025-05-11,C045,Odika Mukhopadhyay,P010,Biscuits,Bakery,South,3,35,105,65.02,39.98,232,In Stock,4.6,Credit Card,Anjali
+ORD0213,2025-04-29,C047,Rajeshri Raval,P016,Soft Drink,Beverages,North,7,60,420,309.63,110.37,19,Out of Stock,3.6,Debit Card,Ramesh
+ORD0214,2025-01-08,C022,Eesha Kakar,P015,Juice,Beverages,East,8,90,720,576.18,143.82,126,Low Stock,4.4,Debit Card,Vikram
+ORD0215,2025-03-11,C051,Anirudh Chakraborty,P015,Milk,Dairy,North,6,55,330,202.64,127.36,45,Out of Stock,4.7,UPI,Ramesh
+ORD0216,2025-11-02,C079,Gaurang Sule,P024,Chips,Snacks,East,8,20,160,97.24,62.76,202,In Stock,3.5,Credit Card,Pooja
+ORD0217,2025-06-19,C024,Charita Nath,P025,Butter,Dairy,South,10,250,2500,2040.88,459.12,56,Low Stock,4.8,Debit Card,Rahul
+ORD0218,2025-04-12,C094,Neha Garde,P009,Coffee,Beverages,South,4,350,1400,870.22,529.78,118,Low Stock,4.0,Debit Card,Anjali
+ORD0219,2025-10-19,C009,Rachit Sarna,P021,Pen,Stationery,North,3,15,45,37.42,7.58,19,Out of Stock,3.6,UPI,Vikram
+ORD0220,2025-12-06,C051,Tristan Chand,P016,Salt,Groceries,North,6,25,150,91.79,58.21,202,In Stock,4.9,Debit Card,Vikram
+ORD0221,2025-11-24,C086,Samar Nadkarni,P018,Butter,Dairy,South,1,250,250,176.7,73.3,246,In Stock,4.2,Credit Card,Sneha
+ORD0222,2025-03-09,C015,Yoshita Choudhury,P016,Toothpaste,Personal Care,East,8,120,960,653.74,306.26,6,Out of Stock,4.9,UPI,Priya
+ORD0223,2025-10-23,C059,Robert Chand,P015,Soap,Personal Care,South,7,40,280,189.31,90.69,186,In Stock,4.3,Cash,Priya
+ORD0224,2025-01-05,C027,Aahana Comar,P010,Soap,Personal Care,East,5,40,200,158.77,41.23,168,In Stock,4.0,UPI,Kiran
+ORD0225,2025-10-13,C014,Warjas Mani,P003,Tea,Beverages,North,5,220,1100,902.45,197.55,265,In Stock,3.6,UPI,Rahul
+ORD0226,2025-08-31,C046,Nilima Thaman,P015,Toothpaste,Personal Care,West,9,120,1080,678.64,401.36,249,In Stock,4.0,Debit Card,Rahul
+ORD0227,2025-02-10,C099,Nicholas Prabhu,P003,Biscuits,Bakery,South,5,35,175,105.39,69.61,207,In Stock,4.3,Cash,Pooja
+ORD0228,2025-04-06,C065,Anita Sarma,P006,Chips,Snacks,South,1,20,20,12.89,7.11,271,In Stock,4.1,Cash,Rahul
+ORD0229,2025-03-12,C034,Bina Mangal,P005,Soft Drink,Beverages,West,5,60,300,225.36,74.64,192,In Stock,4.6,Credit Card,Sneha
+ORD0230,2025-11-16,C054,Lakshmi Master,P014,Bread,Bakery,East,5,40,200,127.54,72.46,9,Out of Stock,3.9,Debit Card,Sneha
+ORD0231,2025-05-18,C086,Ubika Kara,P012,Shampoo,Personal Care,East,10,280,2800,2249.98,550.02,43,Out of Stock,4.9,Cash,Kiran
+ORD0232,2025-03-16,C082,Charvi Chandra,P003,Coffee,Beverages,South,4,350,1400,897.28,502.72,78,Low Stock,4.6,Credit Card,Neha
+ORD0233,2025-02-05,C051,Jasmit Arya,P025,Butter,Dairy,North,9,250,2250,1816.02,433.98,285,In Stock,3.8,Debit Card,Ramesh
+ORD0234,2025-08-26,C085,Hemangini Sha,P020,Namkeen,Snacks,West,5,60,300,184.69,115.31,190,In Stock,3.8,UPI,Anjali
+ORD0235,2025-07-29,C054,Onveer Subramaniam,P017,Butter,Dairy,North,7,250,1750,1156.88,593.12,93,Low Stock,3.6,Cash,Neha
+ORD0236,2025-06-28,C092,Madhav Mann,P007,Pen,Stationery,West,1,15,15,12.69,2.31,79,Low Stock,4.1,Debit Card,Vikram
+ORD0237,2025-05-12,C015,Xavier Saran,P018,Biscuits,Bakery,North,6,35,210,164.61,45.39,267,In Stock,4.7,Cash,Ramesh
+ORD0238,2025-01-16,C047,Manbir Boase,P015,Coffee,Beverages,East,1,350,350,297.3,52.7,71,Low Stock,4.4,UPI,Sneha
+ORD0239,2025-11-29,C034,Thomas Batra,P015,Toothpaste,Personal Care,West,2,120,240,182.85,57.15,267,In Stock,4.5,UPI,Rahul
+ORD0240,2025-12-16,C066,Pranit Yadav,P002,Chips,Snacks,West,8,20,160,115.97,44.03,213,In Stock,3.9,Debit Card,Kiran
+ORD0241,2025-07-19,C008,Omkaar Dubey,P017,Face Wash,Personal Care,North,1,180,180,125.86,54.14,275,In Stock,4.2,Cash,Ramesh
+ORD0242,2025-07-17,C044,Qadim Grewal,P021,Curd,Dairy,North,2,45,90,75.33,14.67,82,Low Stock,3.6,UPI,Ramesh
+ORD0243,2025-11-22,C032,Xavier Sengupta,P006,Curd,Dairy,South,4,45,180,109.1,70.9,150,Low Stock,5.0,Debit Card,Vikram
+ORD0244,2025-08-01,C046,Ekaja Atwal,P004,Cooking Oil,Groceries,South,4,180,720,593.72,126.28,37,Out of Stock,3.7,Credit Card,Sneha
+ORD0245,2025-10-14,C042,Gaurangi Palla,P023,Namkeen,Snacks,South,7,60,420,321.12,98.88,26,Out of Stock,3.9,Debit Card,Anjali
+ORD0246,2025-01-14,C053,Jacob Pai,P001,Butter,Dairy,East,8,250,2000,1205.14,794.86,120,Low Stock,4.1,Debit Card,Kiran
+ORD0247,2025-06-03,C042,Daksha Palan,P013,Bread,Bakery,West,4,40,160,127.91,32.09,198,In Stock,4.6,Credit Card,Rahul
+ORD0248,2025-09-19,C072,Logan Virk,P006,Curd,Dairy,West,6,45,270,172.21,97.79,181,In Stock,4.5,UPI,Arjun
+ORD0249,2025-08-02,C017,Joshua Varghese,P013,Toothpaste,Personal Care,East,9,120,1080,806.84,273.16,128,Low Stock,4.8,UPI,Sneha
+ORD0250,2025-10-05,C031,Ira Chana,P022,Coffee,Beverages,North,8,350,2800,1764.87,1035.13,249,In Stock,3.7,Cash,Pooja
+ORD0251,2025-02-19,C007,Jonathan Karpe,P011,Pen,Stationery,West,1,15,15,10.24,4.76,233,In Stock,3.9,UPI,Arjun
+ORD0252,2025-03-18,C046,Naveen Varty,P010,Rice,Groceries,North,1,60,60,37.32,22.68,13,Out of Stock,4.7,Debit Card,Vikram
+ORD0253,2025-06-14,C024,Saanvi Sankar,P020,Shampoo,Personal Care,East,3,280,840,617.73,222.27,123,Low Stock,4.5,Debit Card,Vikram
+ORD0254,2025-08-04,C037,Harshil Suri,P008,Soft Drink,Beverages,West,1,60,60,42.51,17.49,199,In Stock,4.5,UPI,Kiran
+ORD0255,2025-02-09,C072,Ati Zachariah,P016,Shampoo,Personal Care,North,6,280,1680,1044.32,635.68,192,In Stock,3.8,UPI,Ramesh
+ORD0256,2025-07-06,C032,Dhriti Sami,P004,Bread,Bakery,East,9,40,360,289.01,70.99,9,Out of Stock,4.8,UPI,Rahul
+ORD0257,2025-03-09,C073,Vritti Koshy,P007,Cake,Bakery,East,9,350,3150,2675.88,474.12,277,In Stock,4.4,Debit Card,Pooja
+ORD0258,2025-06-25,C002,Zarna Aggarwal,P022,Butter,Dairy,West,10,250,2500,1516.53,983.47,101,Low Stock,3.7,Cash,Kiran
+ORD0259,2025-08-19,C036,Kala Nori,P001,Cookies,Snacks,South,9,80,720,562.62,157.38,214,In Stock,4.8,Debit Card,Vikram
+ORD0260,2025-09-07,C027,Lekha Chadha,P004,Shampoo,Personal Care,West,4,280,1120,877.66,242.34,34,Out of Stock,3.6,Debit Card,Arjun
+ORD0261,2025-03-29,C087,Anusha Luthra,P014,Curd,Dairy,South,8,45,360,235.01,124.99,246,In Stock,3.9,UPI,Sneha
+ORD0262,2025-10-21,C084,Falguni Chander,P020,Coffee,Beverages,East,7,350,2450,1736.84,713.16,259,In Stock,4.9,Credit Card,Priya
+ORD0263,2025-11-03,C087,Darsh Issac,P025,Face Wash,Personal Care,North,1,180,180,133.38,46.62,279,In Stock,4.3,Cash,Neha
+ORD0264,2025-05-30,C014,Amrita Prakash,P021,Cookies,Snacks,West,2,80,160,115.53,44.47,8,Out of Stock,4.9,UPI,Vikram
+ORD0265,2025-11-08,C028,Rachita Parmar,P012,Namkeen,Snacks,North,9,60,540,336.29,203.71,240,In Stock,3.9,UPI,Rahul
+ORD0266,2025-08-06,C068,Mekhala Thakkar,P009,Wheat Flour,Groceries,North,10,45,450,337.84,112.16,108,Low Stock,4.3,Debit Card,Priya
+ORD0267,2025-07-06,C006,Ira Iyer,P019,Cookies,Snacks,North,7,80,560,444.2,115.8,240,In Stock,4.8,Debit Card,Neha
+ORD0268,2025-10-18,C094,Hemang Varma,P010,Tea,Beverages,West,7,220,1540,1299.68,240.32,120,Low Stock,4.4,Debit Card,Rahul
+ORD0269,2025-01-23,C047,Aahana Dutt,P021,Toothpaste,Personal Care,South,8,120,960,805.49,154.51,19,Out of Stock,3.7,Debit Card,Rahul
+ORD0270,2025-03-01,C056,Aarav Banik,P004,Toothpaste,Personal Care,North,7,120,840,610.09,229.91,270,In Stock,4.1,UPI,Priya
+ORD0271,2025-10-07,C055,Logan Chhabra,P017,Toothpaste,Personal Care,East,8,120,960,757.36,202.64,284,In Stock,3.7,Debit Card,Rahul
+ORD0272,2025-09-11,C098,Ojasvi Hayer,P017,Wheat Flour,Groceries,West,9,45,405,277.15,127.85,284,In Stock,4.2,UPI,Vikram
+ORD0273,2025-12-08,C021,Jonathan Chakraborty,P025,Toothpaste,Personal Care,East,8,120,960,682.73,277.27,204,In Stock,4.6,Credit Card,Sneha
+ORD0274,2025-10-01,C100,Gautami Sankar,P020,Cookies,Snacks,North,3,80,240,158.02,81.98,249,In Stock,4.2,Credit Card,Ramesh
+ORD0275,2025-08-17,C062,Bahadurjit Dugar,P023,Salt,Groceries,South,8,25,200,131.01,68.99,255,In Stock,4.3,Cash,Kiran
+ORD0276,2025-08-06,C073,Jagat Nair,P016,Cookies,Snacks,West,6,80,480,390.36,89.64,174,In Stock,4.9,Credit Card,Vikram
+ORD0277,2025-06-04,C020,Prisha Ramachandran,P025,Butter,Dairy,West,10,250,2500,1890.43,609.57,26,Out of Stock,4.4,UPI,Neha
+ORD0278,2025-05-02,C085,Krish Gokhale,P020,Salt,Groceries,East,1,25,25,16.38,8.62,159,In Stock,4.7,Cash,Neha
+ORD0279,2025-04-01,C094,Nandini Tank,P006,Cake,Bakery,West,7,350,2450,1491.27,958.73,37,Out of Stock,3.8,Cash,Ramesh
+ORD0280,2025-07-14,C020,Kamala Dutt,P015,Curd,Dairy,West,6,45,270,220.0,50.0,111,Low Stock,3.6,Cash,Kiran
+ORD0281,2025-07-20,C002,Oliver Lata,P008,Notebook,Stationery,South,1,80,80,67.68,12.32,160,In Stock,4.2,UPI,Vikram
+ORD0282,2025-07-21,C082,Omaja Vaidya,P023,Cookies,Snacks,East,9,80,720,605.37,114.63,45,Out of Stock,4.1,UPI,Vikram
+ORD0283,2025-04-18,C012,Ekani Sabharwal,P008,Face Wash,Personal Care,East,6,180,1080,775.83,304.17,24,Out of Stock,5.0,Debit Card,Rahul
+ORD0284,2025-04-18,C069,Pahal Palla,P025,Pencil,Stationery,East,4,10,40,27.12,12.88,210,In Stock,4.6,UPI,Ramesh
+ORD0285,2025-12-03,C020,Jeremiah Kumer,P021,Wheat Flour,Groceries,North,1,45,45,38.17,6.83,111,Low Stock,4.8,Credit Card,Priya
+ORD0286,2025-05-17,C064,Pahal Batra,P016,Biscuits,Bakery,East,8,35,280,236.79,43.21,247,In Stock,4.5,Cash,Neha
+ORD0287,2025-05-02,C053,Naveen Tella,P003,Tea,Beverages,East,8,220,1760,1218.28,541.72,118,Low Stock,3.6,Cash,Ramesh
+ORD0288,2025-09-14,C026,Ekalinga Pall,P015,Pen,Stationery,West,7,15,105,70.33,34.67,284,In Stock,3.9,Credit Card,Ramesh
+ORD0289,2025-03-14,C046,Pratyush Garg,P006,Sugar,Groceries,West,3,50,150,114.55,35.45,8,Out of Stock,4.3,Cash,Priya
+ORD0290,2025-08-15,C021,Baghyawati Boase,P018,Tea,Beverages,South,3,220,660,402.65,257.35,174,In Stock,4.2,Debit Card,Pooja
+ORD0291,2025-01-07,C087,Arin Varty,P024,Cookies,Snacks,North,3,80,240,194.16,45.84,226,In Stock,4.9,UPI,Anjali
+ORD0292,2025-04-06,C071,Champak Sastry,P019,Milk,Dairy,North,8,55,440,326.6,113.4,245,In Stock,4.5,Cash,Ramesh
+ORD0293,2025-09-11,C010,Nidhi Deshpande,P016,Cheese,Dairy,West,2,400,800,577.72,222.28,91,Low Stock,4.9,Credit Card,Priya
+ORD0294,2025-11-08,C002,Yash Chacko,P024,Chips,Snacks,East,6,20,120,78.2,41.8,290,In Stock,4.3,Cash,Neha
+ORD0295,2025-03-05,C046,Yashica Badal,P007,Bread,Bakery,West,6,40,240,196.54,43.46,202,In Stock,3.7,Cash,Rahul
+ORD0296,2025-11-20,C008,Zarna Merchant,P024,Curd,Dairy,North,7,45,315,197.03,117.97,119,Low Stock,4.0,Debit Card,Rahul
+ORD0297,2025-04-30,C034,Charita De,P025,Butter,Dairy,North,5,250,1250,774.28,475.72,85,Low Stock,4.8,Credit Card,Arjun
+ORD0298,2025-02-15,C092,Vivaan Tiwari,P020,Face Wash,Personal Care,South,4,180,720,511.51,208.49,216,In Stock,4.9,Debit Card,Neha
+ORD0299,2025-02-11,C068,Vansha Reddy,P014,Chips,Snacks,West,6,20,120,97.47,22.53,131,Low Stock,3.5,UPI,Vikram
+ORD0300,2025-06-30,C049,Nilima Mangal,P024,Bread,Bakery,West,2,40,80,63.82,16.18,208,In Stock,3.7,Cash,Sneha
+ORD0301,2025-03-10,C087,Zilmil Swaminathan,P023,Soft Drink,Beverages,East,4,60,240,154.74,85.26,86,Low Stock,3.8,Credit Card,Ramesh
+ORD0302,2025-05-31,C073,Fitan Kota,P014,Rice,Groceries,East,10,60,600,387.72,212.28,170,In Stock,4.4,Cash,Rahul
+ORD0303,2025-09-10,C068,Wazir Yogi,P017,Namkeen,Snacks,West,6,60,360,230.19,129.81,111,Low Stock,3.6,Cash,Pooja
+ORD0304,2025-04-01,C050,Balhaar Rau,P011,Coffee,Beverages,North,3,350,1050,700.96,349.04,33,Out of Stock,4.9,Cash,Priya
+ORD0305,2025-09-26,C048,Falak Murty,P018,Cooking Oil,Groceries,East,8,180,1440,1028.46,411.54,187,In Stock,3.5,UPI,Pooja
+ORD0306,2025-04-07,C092,Pahal Kapadia,P008,Cookies,Snacks,East,2,80,160,109.4,50.6,96,Low Stock,4.5,Credit Card,Neha
+ORD0307,2025-03-04,C068,Jalsa Swaminathan,P022,Shampoo,Personal Care,North,6,280,1680,1326.0,354.0,297,In Stock,3.8,Debit Card,Neha
+ORD0308,2025-06-07,C006,Aradhana Kapoor,P020,Juice,Beverages,West,5,90,450,300.07,149.93,289,In Stock,4.6,Cash,Kiran
+ORD0309,2025-01-28,C040,Zayyan Datta,P009,Shampoo,Personal Care,East,6,280,1680,1196.75,483.25,284,In Stock,4.9,UPI,Pooja
+ORD0310,2025-11-14,C061,Lopa Pandey,P018,Rice,Groceries,North,9,60,540,445.4,94.6,288,In Stock,3.7,Debit Card,Sneha
+ORD0311,2025-04-25,C026,Daniel Agrawal,P013,Bread,Bakery,North,10,40,400,259.11,140.89,293,In Stock,3.6,Debit Card,Pooja
+ORD0312,2025-11-01,C007,Advika Sankaran,P001,Coffee,Beverages,East,1,350,350,283.82,66.18,95,Low Stock,3.6,Debit Card,Rahul
+ORD0313,2025-09-13,C073,Wahab Rao,P016,Curd,Dairy,East,7,45,315,263.39,51.61,156,In Stock,3.7,UPI,Priya
+ORD0314,2025-09-07,C073,Upadhriti Varghese,P017,Milk,Dairy,South,5,55,275,218.78,56.22,204,In Stock,3.7,Debit Card,Rahul
+ORD0315,2025-06-20,C054,Joshua Mangal,P007,Biscuits,Bakery,South,2,35,70,58.67,11.33,123,Low Stock,4.0,Credit Card,Kiran
+ORD0316,2025-09-28,C089,Dhriti Gill,P018,Wheat Flour,Groceries,South,9,45,405,291.23,113.77,174,In Stock,4.2,UPI,Vikram
+ORD0317,2025-04-29,C053,Amara Grewal,P012,Bread,Bakery,South,1,40,40,27.36,12.64,127,Low Stock,5.0,UPI,Arjun
+ORD0318,2025-04-02,C045,Chasmum Saxena,P019,Salt,Groceries,South,8,25,200,134.51,65.49,33,Out of Stock,4.6,Cash,Sneha
+ORD0319,2025-11-02,C096,Lohit Bath,P005,Bread,Bakery,South,9,40,360,282.11,77.89,17,Out of Stock,3.7,Cash,Anjali
+ORD0320,2025-10-23,C056,Nirja Rajan,P022,Curd,Dairy,East,10,45,450,371.14,78.86,267,In Stock,4.7,Credit Card,Ramesh
+ORD0321,2025-02-06,C092,Waida Saraf,P022,Cookies,Snacks,North,1,80,80,67.87,12.13,149,Low Stock,4.4,Debit Card,Sneha
+ORD0322,2025-08-17,C084,Chaaya Roy,P012,Sugar,Groceries,West,9,50,450,302.48,147.52,61,Low Stock,3.7,Cash,Ramesh
+ORD0323,2025-09-12,C027,Qushi Kant,P023,Notebook,Stationery,North,10,80,800,569.73,230.27,273,In Stock,4.5,Credit Card,Neha
+ORD0324,2025-02-14,C097,Onveer Virk,P016,Biscuits,Bakery,East,5,35,175,112.99,62.01,119,Low Stock,3.7,Credit Card,Neha
+ORD0325,2025-11-02,C019,Anirudh Baria,P005,Cake,Bakery,West,1,350,350,253.22,96.78,231,In Stock,3.8,Debit Card,Vikram
+ORD0326,2025-05-11,C098,Leela Bedi,P019,Cheese,Dairy,North,1,400,400,326.81,73.19,244,In Stock,3.5,Credit Card,Priya
+ORD0327,2025-11-01,C037,Ati Goda,P016,Chips,Snacks,South,9,20,180,123.15,56.85,71,Low Stock,4.6,Cash,Pooja
+ORD0328,2025-10-26,C090,Divya Manda,P024,Biscuits,Bakery,South,5,35,175,107.76,67.24,293,In Stock,4.6,Debit Card,Kiran
+ORD0329,2025-12-24,C027,Kamya Nigam,P014,Notebook,Stationery,North,8,80,640,510.93,129.07,207,In Stock,4.7,Credit Card,Priya
+ORD0330,2025-08-14,C043,Omaja Bhatt,P017,Sugar,Groceries,North,2,50,100,78.93,21.07,213,In Stock,4.9,Debit Card,Anjali
+ORD0331,2025-01-31,C026,Shravya Dada,P021,Soap,Personal Care,South,5,40,200,142.7,57.3,211,In Stock,4.2,Cash,Rahul
+ORD0332,2025-12-12,C053,Advika Sinha,P020,Bread,Bakery,East,3,40,120,74.26,45.74,254,In Stock,3.8,UPI,Sneha
+ORD0333,2025-12-06,C089,Neel Mody,P024,Face Wash,Personal Care,North,9,180,1620,1316.49,303.51,198,In Stock,4.6,Cash,Anjali
+ORD0334,2025-12-08,C003,Wyatt Palan,P012,Pencil,Stationery,South,9,10,90,71.97,18.03,23,Out of Stock,4.9,Debit Card,Ramesh
+ORD0335,2025-02-03,C080,Ronith Gade,P023,Butter,Dairy,North,1,250,250,151.35,98.65,50,Low Stock,4.5,Credit Card,Priya
+ORD0336,2025-01-06,C096,Jonathan Barman,P017,Milk,Dairy,West,6,55,330,236.08,93.92,141,Low Stock,4.9,Debit Card,Sneha
+ORD0337,2025-03-30,C059,Kai Bhasin,P013,Chips,Snacks,North,4,20,80,63.15,16.85,239,In Stock,3.6,Cash,Neha
+ORD0338,2025-07-01,C007,Hitesh Raj,P009,Toothpaste,Personal Care,South,1,120,120,89.83,30.17,295,In Stock,3.5,Debit Card,Sneha
+ORD0339,2025-07-29,C005,Harinakshi Bir,P023,Biscuits,Bakery,East,7,35,245,180.12,64.88,40,Out of Stock,3.9,UPI,Vikram
+ORD0340,2025-04-12,C099,Unnati Narang,P015,Face Wash,Personal Care,East,2,180,360,295.56,64.44,13,Out of Stock,4.3,Credit Card,Rahul
+ORD0341,2025-06-18,C046,Indali Pillai,P007,Chips,Snacks,North,5,20,100,60.08,39.92,248,In Stock,4.2,Debit Card,Arjun
+ORD0342,2025-03-09,C058,Fiyaz Choudhary,P004,Juice,Beverages,North,10,90,900,691.59,208.41,109,Low Stock,4.4,UPI,Sneha
+ORD0343,2025-07-08,C019,Rudra Palla,P003,Chips,Snacks,East,1,20,20,13.89,6.11,92,Low Stock,4.5,Cash,Sneha
+ORD0344,2025-04-28,C009,Rachita Mohan,P023,Tea,Beverages,West,6,220,1320,846.1,473.9,52,Low Stock,4.1,Credit Card,Kiran
+ORD0345,2025-01-20,C007,Bhavya Kumer,P010,Cake,Bakery,West,1,350,350,266.54,83.46,206,In Stock,3.8,Cash,Kiran
+ORD0346,2025-05-24,C004,Gagan Sastry,P015,Bread,Bakery,West,1,40,40,24.65,15.35,167,In Stock,3.8,Credit Card,Vikram
+ORD0347,2025-09-12,C048,Bhavani Peri,P003,Cheese,Dairy,West,5,400,2000,1474.97,525.03,267,In Stock,4.4,UPI,Priya
+ORD0348,2025-12-06,C048,Fariq Mital,P006,Salt,Groceries,South,10,25,250,167.6,82.4,184,In Stock,4.6,Cash,Priya
+ORD0349,2025-12-04,C099,Lakshit Vora,P004,Cheese,Dairy,North,6,400,2400,1560.84,839.16,167,In Stock,4.1,UPI,Kiran
+ORD0350,2025-01-05,C028,Neha Nanda,P004,Namkeen,Snacks,South,6,60,360,268.77,91.23,138,Low Stock,4.8,Cash,Neha
